@@ -12,3 +12,6 @@ python2.7+pyqt
   
 QQ旋风:
   qqdl="qqdl://"+Base64编码("真实地址")
+  
+  
+我的博客:http://blog.csdn.net/iloster
