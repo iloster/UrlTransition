@@ -6,7 +6,9 @@ UrlTransition
 python2.7+pyqt
 
 原理:
+
 迅雷:
   迅雷下载地址="thunder://"+Base64编码("AA"+"真实地址"+"ZZ")
+  
 QQ旋风:
   qqdl="qqdl://"+Base64编码("真实地址")
